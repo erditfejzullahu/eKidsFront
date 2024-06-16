@@ -1,5 +1,4 @@
 import { jwtDecode } from "jwt-decode";
-import { mapActions } from "vuex";
 
 
 export function checkAccessToken() {
